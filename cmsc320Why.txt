@@ -1,0 +1,1 @@
+I am interested in taking CMSC320 because in the future, I want to become a Machine Learning Engineer, and in order to do so, there are a lot of concepts taught in data science which intertwine with machine learning. I want to learn more about preprocessing data and creating models using different frameworks, and CMSC320 will definitely help with this. 
